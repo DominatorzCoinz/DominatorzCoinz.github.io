@@ -14,5 +14,10 @@ This site showcases coins I've collected over the years — with images, history
 - 1970 Bombay Mint Proof Set
 - 1947 British India Half Rupee
 
+- ## 🔗 Quick Links
+
+- [Coin Gallery](gallery.md)
+
+
 ## 📬 Contact Me
 Want to share coin stories or trade? Email me at: **youremail@example.com**
